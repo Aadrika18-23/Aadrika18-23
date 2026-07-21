@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Aadrika Singh Rathore
 
-<!--
-**Aadrika18-23/Aadrika18-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about Android Development, Kotlin, C++, and Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Jetpack Compose, Android Development, and Advanced DSA.**
+
+---
+
+## 🚀 Tech Stack
+
+- Kotlin
+- C++
+- Python
+- Jetpack Compose
+- Android Studio
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Working On
+
+- 📱 Android Development with Jetpack Compose
+- 💻 Data Structures & Algorithms in C++
+- 🚀 Building real-world Android projects
+
+---
+
+## 🎯 Goals
+
+- Become a Software Development Engineer (SDE)
+- Build high-quality Android applications
+- Contribute to Open Source
+- Secure internships at top tech companies
+
+---
+
+⭐ Thanks for visiting my profile!
