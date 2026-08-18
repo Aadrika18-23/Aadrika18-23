@@ -11,15 +11,23 @@
 ---
 <h2>🚀 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br><br>
+<h3>💻 Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,cpp,python" />
+</p>
+
+<h3>📱 Android Development</h3>
+
+<p>
   <img src="https://skillicons.dev/icons?i=androidstudio" />
-  <br><br>
+</p>
+
+<p><b>Jetpack Compose</b></p>
+
+<h3>🛠️ Tools</h3>
+
+<p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 ---
