@@ -10,7 +10,9 @@
 
 ---
 
-## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,cpp,python,androidstudio,git,github" />
+</p>
 
 - Kotlin
 - C++
