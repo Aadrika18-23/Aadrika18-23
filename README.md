@@ -31,6 +31,12 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 ---
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadrika18-23&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+---
 
 ## 📚 Currently Working On
 
