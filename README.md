@@ -31,13 +31,13 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 ---
-<h2>📊 GitHub Stats</h2>
+<h2>🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadrika18-23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aadrika18-23&theme=tokyonight&hide_border=true" />
 </p>
----
 
+---
 ## 📚 Currently Working On
 
 - 📱 Android Development with Jetpack Compose
