@@ -31,18 +31,22 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 ---
-<h2>🔥 GitHub Contribution Streak</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aadrika18-23&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ## 📚 Currently Working On
 
 - 📱 Android Development with Jetpack Compose
 - 💻 Data Structures & Algorithms in C++
 - 🚀 Building real-world Android projects
+
+---
+
+## 🌱 Learning Journey
+
+- 📱 Android Development with Kotlin & Jetpack Compose
+- 💻 Data Structures & Algorithms using C++
+- 🔧 Git & GitHub
+- 🧠 Problem Solving through DSA practice
+- 🚀 Building and documenting real-world projects
 
 ---
 
