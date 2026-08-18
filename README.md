@@ -9,11 +9,17 @@
 🌱 Currently learning **Jetpack Compose, Android Development, and Advanced DSA.**
 
 ---
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,cpp,python,androidstudio,git,github" />
-</p>
+<h2>🚀 Tech Stack</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 ---
 
 ## 📚 Currently Working On
