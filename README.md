@@ -21,7 +21,7 @@ B.Tech Computer Science student passionate about **Android development**, **Kotl
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| [Project Name](link) | One-line description | Kotlin, Compose | 🚧 Building |
+| [Track12](https://github.com/Aadrika18-23/Track12) | An Android app built with Kotlin and Jetpack Compose (description coming soon) | Kotlin, Jetpack Compose | 🚧 Building |
 
 > I'm documenting my build process as I go. New updates are posted whenever I get time.
 
